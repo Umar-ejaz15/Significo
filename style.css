@@ -2,6 +2,10 @@
    font-family: Radio_Canada_Big;
  
 }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .BlackTheme {
   background-color: black;
   color: white;
